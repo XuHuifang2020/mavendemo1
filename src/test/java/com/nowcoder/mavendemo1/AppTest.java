@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        //test push
+        //testpush
         assertTrue( true );
     }
 }
